@@ -1,0 +1,2 @@
+"Data Source=DESKTOP-52P59R1;Initial Catalog=COMIC;Persist Security Info=True;User ID=sa;TrustServerCertificate=True;Trusted_Connection=True;"
+"Data Source=DESKTOP-52P59R1;Initial Catalog=COMIC;Integrated Security=True;TrustServerCertificate=True;"
